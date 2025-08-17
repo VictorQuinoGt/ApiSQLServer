@@ -19,6 +19,6 @@ El proyecto está dividido en las siguientes capas:
 
 - Motor: **SQL Server**
 
-## Datos de alumno
+## Datos del alumno
 - **Victor Quino**
 - **7690-17-6433**
